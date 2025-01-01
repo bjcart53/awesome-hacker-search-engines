@@ -569,6 +569,7 @@ These can be useful for osint and social engineering.
 - [LiveWorldWebcams](https://liveworldwebcams.com/) - Live streaming webcams from around the world
 - [AlleCam](https://www.allecam.com/) - Webcam live from Europe and the whole world
 - [WXYZ Webcams](https://wxyzwebcams.com/) - Real-time webcams
+- [Live Beach Cam](https://livebeachcam.net/) Live webcams from around the world
 
 ### Crypto
 
